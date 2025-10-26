@@ -1,0 +1,1 @@
+worker: python masterstudio_bot.py
